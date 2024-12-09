@@ -1,5 +1,7 @@
 # dlX
 
+![logo](doc/logo.svg|400)
+
 DLX is a bulk downloader for http file servers. It crawls a page for the file links and generate a TSV (tab separated values) file with the file name and the download link. From there the downloader can download the files.
 
 ## Licence
