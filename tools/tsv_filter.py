@@ -1,4 +1,5 @@
 # filter a tsv file based on a list of allowed extentions
+# for example if i wanted only .png files but not .md this can help
 
 allowed_ext = [".pdf", ".png", ".jpeg",  ".jpg", ".txt", ".odt"]
 input_f = open("output.tsv", "r").readlines()
